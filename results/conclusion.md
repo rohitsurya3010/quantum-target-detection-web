@@ -1,0 +1,11 @@
+# Conclusion
+
+This project developed a reproducible Python/Qiskit simulation platform for comparing correlation-based target detection under a simplified two-qubit model. The platform evaluates three detectors: an entangled Bell-pair detector, a classically correlated binary detector, and a classical matched-filter detector. All three use the defined `eta` target-correlation parameter, `epsilon` binary noise probability, matched observation budgets, and common Pd, Pfa, ROC, and AUC procedures.
+
+The experiments showed condition-dependent detection performance rather than a universal detector ranking. Across the simulated parameter grid, quantum AUC ranged from `0.69395` to `1.00000`, classically correlated AUC ranged from `0.73830` to `1.00000`, and classical matched-filter AUC ranged from `0.77870` to `1.00000`. Increasing `eta` generally improved separation because target-present observations became more correlated with their references. Increasing `epsilon` generally reduced useful correlation, particularly when the target-correlation probability was already weak.
+
+The most difficult simulated condition was `eta=0.10, epsilon=0.20`. At this condition, the quantum detector achieved AUC `0.69395`, compared with `0.73830` for the classically correlated detector and `0.77870` for the classical matched filter. At `eta=0.40, epsilon=0.00`, all three detectors reached AUC `1.00000`. This indicates perfect separation in that particular simulated condition, not universal quantum advantage, physical quantum advantage, or real-radar superiority.
+
+The main contribution is a transparent and reproducible framework for studying how target correlation and binary noise affect entangled and classical baselines under explicitly defined assumptions. It demonstrates that a meaningful evaluation requires classical controls, parameter sweeps, and threshold-based metrics rather than isolated favorable cases.
+
+The next step should be a physically richer model, such as continuous-variable quantum illumination with bosonic loss, thermal background, photon-number statistics, and a physically motivated receiver. Hardware experiments and larger Monte Carlo studies could then test whether any observed behavior persists beyond this educational simulation.

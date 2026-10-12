@@ -1,0 +1,55 @@
+source,detector,metric,condition,value,notes
+our_simulation,classical_correlated,correlation_separation,"eta=0.1, epsilon=0",0.104609375,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.2, epsilon=0",0.21593749999999998,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.4, epsilon=0",0.40054687499999997,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.6, epsilon=0",0.605078125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.1, epsilon=0.05",0.095,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.2, epsilon=0.05",0.16625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.4, epsilon=0.05",0.37265624999999997,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.6, epsilon=0.05",0.5353125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.1, epsilon=0.1",0.07546875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.2, epsilon=0.1",0.173125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.4, epsilon=0.1",0.3346875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.6, epsilon=0.1",0.4746875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.1, epsilon=0.2",0.054375,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.2, epsilon=0.2",0.1184375,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.4, epsilon=0.2",0.23781249999999998,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_correlated,correlation_separation,"eta=0.6, epsilon=0.2",0.35390625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.1, epsilon=0",0.110078125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.2, epsilon=0",0.19898437500000002,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.4, epsilon=0",0.39851562500000004,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.6, epsilon=0",0.61296875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.1, epsilon=0.05",0.09625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.2, epsilon=0.05",0.1765625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.4, epsilon=0.05",0.356875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.6, epsilon=0.05",0.551875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.1, epsilon=0.1",0.078125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.2, epsilon=0.1",0.16578125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.4, epsilon=0.1",0.31875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.6, epsilon=0.1",0.48171875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.1, epsilon=0.2",0.06421875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.2, epsilon=0.2",0.11875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.4, epsilon=0.2",0.244140625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,classical_matched_filter,correlation_separation,"eta=0.6, epsilon=0.2",0.366796875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.1, epsilon=0",0.101953125,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.2, epsilon=0",0.22062500000000002,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.4, epsilon=0",0.40304687499999997,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.6, epsilon=0",0.5947656250000001,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.1, epsilon=0.05",0.09109375,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.2, epsilon=0.05",0.17625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.4, epsilon=0.05",0.3675,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.6, epsilon=0.05",0.54015625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.1, epsilon=0.1",0.089296875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.2, epsilon=0.1",0.169296875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.4, epsilon=0.1",0.316796875,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.6, epsilon=0.1",0.48195312500000004,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.1, epsilon=0.2",0.049999999999999996,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.2, epsilon=0.2",0.134765625,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.4, epsilon=0.2",0.23835937499999998,Computed from current trial_statistics.csv; not a published value.
+our_simulation,quantum,correlation_separation,"eta=0.6, epsilon=0.2",0.348203125,Computed from current trial_statistics.csv; not a published value.
+Ahmed 2026 preprint,quantum,correlation_separation,zero background noise,0.01,Published reported value; entangled probe.
+Ahmed 2026 preprint,quantum,correlation_separation,high background noise,0.0025,Published reported value; entangled probe.
+Ahmed 2026 preprint,classical_correlated,correlation_separation,zero background noise,0.1,Published reported value; classically correlated probe.
+Ahmed 2026 preprint,classical_correlated,correlation_separation,high background noise,0.05,Published reported value; classically correlated probe.
+Yung et al. 2020,quantum_illumination,minimum_detection_error,one-shot discrete-signal channel discrimination,,Theoretical result; no numerical value copied into this table.
+Yung et al. 2020,conventional_illumination,minimum_detection_error,one-shot discrete-signal channel discrimination,,Theoretical result; no numerical value copied into this table.
