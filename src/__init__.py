@@ -1,1 +1,1 @@
-"""Project source package."""
+"""Quantum target detection simulation package."""
